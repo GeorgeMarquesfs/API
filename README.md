@@ -1,6 +1,6 @@
 # Attornatus-Desafio
 
-Para facilitar o teste da API, segue o JSON:  
+Para facilitar o teste da API no postman, segue o JSON:  
 
 
     {
