@@ -4,9 +4,7 @@ Para facilitar o teste da API, segue o JSON:
 
 {
     "nome": "Maria Beatriz",  
-    
     "dataNascimento": "1990-01-01",  
-    
     "enderecos": [
         {
             "logradouro": "Av Lucena",
