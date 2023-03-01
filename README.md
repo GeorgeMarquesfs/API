@@ -4,11 +4,11 @@ Para facilitar o teste da API, segue o JSON:
 
 
     {
-        "nome": "Maria Beatriz",  
+        "nome": "Fulano",  
         "dataNascimento": "1990-01-01",  
         "enderecos": [
             {
-                "logradouro": "Av Lucena",
+                "logradouro": "Av Epitácio",
                 "cep": "15645-678",
                 "numero": 356,
                 "cidade": "João Pessoa",
