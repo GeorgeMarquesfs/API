@@ -1,7 +1,5 @@
 # Attornatus-Desafio
 
-Link para o documento da avalização : https://docs.google.com/document/d/110awoyvXmRWra01C7R1XnHnLygTCJZpC/edit?usp=sharing&ouid=112272376613690957741&rtpof=true&sd=true
-
 
 Para facilitar o teste da API no postman, segue o JSON:  
 
